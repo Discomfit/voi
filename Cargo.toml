@@ -9,6 +9,6 @@ respository = "https://github.com/Discomfit/voi"
 homepage = "https://github.com/Discomfit/voi"
 readme = "README.md"
 keywords = [ "windowing", "desktop", "rust" ]
-categories = [ "GUI" ]
+categories = [ "gui" ]
 
 [dependencies]
