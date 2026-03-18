@@ -8,7 +8,7 @@ license = "MIT"
 respository = "https://github.com/Discomfit/voi"
 homepage = "https://github.com/Discomfit/voi"
 readme = "README.md"
-keywords = [ "windows", "macos", "linux", "mircrosoft", "apple", "windowing", "winit", "tao", "rust" ]
+keywords = [ "windows", "macos", "linux", "windowing", "rust" ]
 categories = [ "" ]
 
 [dependencies]
